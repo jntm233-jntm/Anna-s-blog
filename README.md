@@ -68,7 +68,7 @@
 
 <center><font size="5">Hello everyone.Welcome to my blog.</font></center>
 
-<left><font size="5">About me</font></center>
+<left><font size="5">About me</font>
 
 
 <br>
@@ -79,4 +79,3 @@
 <br>
 
 
-</div></div></div></div></body></html>
