@@ -66,7 +66,7 @@
         <div class="content">
           
 
-<left><font size="5">Hello everyone.Welcome to my blog.</font></center>
+<left><font size="5">Hello everyone.Welcome to my blog.</font>
 
 <left><font size="5">About me</font>
 
