@@ -3,7 +3,7 @@
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 
-<center><title>Anna's blog</title>
+<title>Anna's blog</title>
 
 
 <style>
